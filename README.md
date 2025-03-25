@@ -2,13 +2,13 @@
 
 ## Overview
 
-![workflow](https://drive.google.com/uc?export=view&id=1X_hAKv6Gfx64jVT-aF3GQcP7hRWn_DOr)
+![workflow](doc/img/workflow.png)
 
 The **Processing Dashboard** is an interactive platform developed with **Streamlit** that manages the entire workflow for indoor localization, from the acquisition and preprocessing of RSSI data, to the training of machine learning models, all the way to predicting the position of mobile devices. This solution leverages advanced techniques such as **Generative AI**, **K-Means clustering**, **K-Nearest Neighbors (KNN)**, and **trilateration** to obtain accurate position estimates based on Wi-Fi and BLE signals.
 
 ## a) System Architecture
 
-![architettura](https://drive.google.com/uc?export=view&id=13Cb9Iq9cTK-zhTe3yJ_fPGRLT2n5gV35)
+![architettura](doc/img/architecture.png)
 
 The system architecture is modular and comprises the following key components:
 
